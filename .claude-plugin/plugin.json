@@ -1,0 +1,11 @@
+{
+  "name": "flappy-claude",
+  "version": "0.1.0",
+  "author": { "name": "Aner Cohen" },
+  "homepage": "https://github.com/Anerco/claude-code-flappy-claude#readme",
+  "repository": "https://github.com/Anerco/claude-code-flappy-claude",
+  "supportUrl": "https://github.com/Anerco/claude-code-flappy-claude/issues",
+  "license": "MIT",
+  "description": "Flappy Bird with Claude's spark, above the prompt while Claude works",
+  "types": "./types/index.d.ts"
+}
